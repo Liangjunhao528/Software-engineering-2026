@@ -1,0 +1,8 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# 含 API Key，禁止提交
+.env
